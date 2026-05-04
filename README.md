@@ -1,13 +1,3 @@
-from pathlib import Path
-
-readme = r'''<!--
-GitHub Profile README
-How to use:
-1) Create a public GitHub repository with the exact same name as your GitHub username.
-2) Add this file as README.md at the root of that repository.
-3) Replace YOUR_GITHUB_USERNAME, YOUR_LINKEDIN_URL, and YOUR_PORTFOLIO_URL with your real links.
--->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Natchapon%20Thiradechanun&fontSize=42&fontAlignY=35&desc=AI%20Engineer%20in%20Progress%20%7C%20Computer%20Science%20%40%20KMITL&descAlignY=58&animation=fadeIn" />
